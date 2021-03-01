@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784246733429",
+    "project_id": "coffee-brew-flutter",
+    "storage_bucket": "coffee-brew-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784246733429:android:77b2e2864c46dfb343963c",
+        "android_client_info": {
+          "package_name": "com.example.coffee_brew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784246733429-s4f31th3q5lp8ocakvtntl2q28cq80q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA_NEjoU6zvgmKQ58jki-osSp_skW42yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784246733429-s4f31th3q5lp8ocakvtntl2q28cq80q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
